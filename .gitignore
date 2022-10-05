@@ -1,5 +1,8 @@
 # emacs backup files
 *~
+boost_1_77_0.tar.bz2
+boost_1_77_0
+cmake-build-debug/
 
 # Misc tags/ctags files
 tags

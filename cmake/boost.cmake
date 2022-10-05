@@ -39,6 +39,7 @@
 # is installed on the compile host in the standard location.
 
 SET(BOOST_PACKAGE_NAME "boost_1_77_0")
+SET(WITH_BOOST "/Users/huoyinghui/github/mysql-server/boost_1_77_0")
 SET(BOOST_TARBALL "${BOOST_PACKAGE_NAME}.tar.bz2")
 SET(BOOST_DOWNLOAD_URL
   "https://boostorg.jfrog.io/artifactory/main/release/1.77.0/source/${BOOST_TARBALL}"
